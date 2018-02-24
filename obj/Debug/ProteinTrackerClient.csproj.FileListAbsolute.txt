@@ -1,0 +1,10 @@
+C:\Users\Awesome\source\repos\ProteinTrackerClient\ProteinTrackerClient\bin\Debug\ProteinTrackerClient.exe.config
+C:\Users\Awesome\source\repos\ProteinTrackerClient\ProteinTrackerClient\bin\Debug\ProteinTrackerClient.exe
+C:\Users\Awesome\source\repos\ProteinTrackerClient\ProteinTrackerClient\bin\Debug\ProteinTrackerClient.pdb
+C:\Users\Awesome\source\repos\ProteinTrackerClient\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.csprojResolveAssemblyReference.cache
+C:\Users\Awesome\source\repos\ProteinTrackerClient\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.Properties.Resources.resources
+C:\Users\Awesome\source\repos\ProteinTrackerClient\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.ProteinTrackerForm.resources
+C:\Users\Awesome\source\repos\ProteinTrackerClient\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.csproj.GenerateResource.Cache
+C:\Users\Awesome\source\repos\ProteinTrackerClient\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.csproj.CoreCompileInputs.cache
+C:\Users\Awesome\source\repos\ProteinTrackerClient\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.exe
+C:\Users\Awesome\source\repos\ProteinTrackerClient\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.pdb
